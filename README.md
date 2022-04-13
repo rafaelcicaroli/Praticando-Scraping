@@ -103,7 +103,7 @@ ___
 
 ### _**Quer falar comigo?**_ Aponte a câmera no QR Code
 </br>
-<img src="sendtorafaelcicaroli.png" alt="drawing" width="145"/>
+<img src="sendtorafaelcicaroli.png" alt="drawing" width="200"/>
 
 
 

@@ -42,12 +42,14 @@ Dentro da classe _QuotesSpider_ eu criei o método que faz o _scrapy_ das inform
              yield response.follow(next_page, callback=self.parse)
 
 ### Executando o código
-_Aqui estou rodando o código **quotes**, nome esse que foi atribuído ao projeto na variável _**name**_ lá no começo do código.E ao mesmo tempo estou dando o comando para criar um novo arquivo .json para consumo e tratamento desses dados em sequência_
+_Aqui estou rodando o código **quotes**, nome esse que foi atribuído ao projeto na variável _**name**_ lá no começo do código. E ao mesmo tempo estou dando o comando para criar um novo arquivo .json para consumo e tratamento desses dados em sequência_
+
 
     scrapy crawl quotes -O quotes.json
 
-
-<img src="jsonsemtratamento.PNG">
+O arquivo .json ficou da seguinte forma: 
+<br/>(_**clique**_ na imagem para uma melhor resolução)</br>
+</br> <img src="jsonsemtratamento.png">
 
 Após a extração dos dados eles foram tranformados em json
 Depois de tranformados foi feito o tratamento rertirando caracteres ou informações que não seria úteis para uma visualização limpa dos dados 

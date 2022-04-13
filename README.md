@@ -47,7 +47,7 @@ _Aqui estou rodando o código **quotes**, nome esse que foi atribuído ao projet
     scrapy crawl quotes -O quotes.json
 
 
-<img src="jsonsemtratamento.png">
+<img src="jsonsemtratamento.PNG">
 
 Após a extração dos dados eles foram tranformados em json
 Depois de tranformados foi feito o tratamento rertirando caracteres ou informações que não seria úteis para uma visualização limpa dos dados 

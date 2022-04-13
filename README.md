@@ -117,5 +117,5 @@ ___
 
 
 
-<div style="display: inline_block"></br><img align="center" alt="html5"src="http://ForTheBadge.com/images/badges/made-with-python.svg"/><div><div style="display: inline_block"></br><img align="center" alt="html5"src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-<div>
+</br><img align="center" alt="html5"src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+<div><div style="display: inline_block"></br><img align="center" alt="html5"src="http://ForTheBadge.com/images/badges/made-with-python.svg"/><div><div style="display: inline_block">

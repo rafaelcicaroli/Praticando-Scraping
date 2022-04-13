@@ -1,6 +1,6 @@
 # Praticando **_WEBSCRAPING_**
 
-### _Neste projeto estou ealizando a **Extração** de dados do site [Quotes to Scrape](https://quotes.toscrape.com/page), convertendo-os em informação estruturada para posterior análise_
+### _Neste projeto estou realizando a **Extração** de dados do site [Quotes to Scrape](https://quotes.toscrape.com/page), convertendo-os em informação estruturada para posterior análise_
 
 </br>
 
@@ -102,7 +102,7 @@ ___
 
 ### _**Quer falar comigo?**_ Aponte a câmera no QR Code
 </br>
-<img src="sendtorafaelcicaroli.png" alt="drawing" width="140"/>
+<img src="sendtorafaelcicaroli.png" alt="drawing" width="200"/>
 
 
 
@@ -116,7 +116,5 @@ ___
 
 
 
-<div style="display: inline_block"></br>
-<img align="center" alt="html5"
-src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
+<div style="display: inline_block"></br><img align="center" alt="html5"src="http://ForTheBadge.com/images/badges/made-with-python.svg"/><div><div style="display: inline_block"></br><img align="center" alt="html5"src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 <div>

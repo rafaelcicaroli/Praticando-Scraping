@@ -81,6 +81,7 @@ Após a extração dos dados, acrescentei no código um método de tratamento si
 _________________
 </br>
 Arquivo .json tratado:
+
 <br/>(_**clique**_ na imagem para uma melhor resolução)</br>
 </br>
 
@@ -90,7 +91,7 @@ Arquivo .json tratado:
 </br>
 </br>
 
-Dessa forma finalizo o meu _**WEBSCRAPING**_ onde _coletei_ dados específicos de todas as páginas de um site, _limpei_, _tranformei_ em um arquivo de fácil leitura para consumo em várias ferrmantas e ums melhor visualização.
+Dessa forma finalizo o meu _**WEBSCRAPING**_ onde _coletei_ dados específicos de todas as páginas de um site, _limpei_, _tranformei_ em um arquivo de fácil leitura para consumo em várias ferrmantas e uma melhor visualização.
 
 Estou praticando, há muito campo para melhora, porém estou satisfeito por realizei o que me propus fazer
 

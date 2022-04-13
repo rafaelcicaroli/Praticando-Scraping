@@ -11,3 +11,7 @@ _(Albert Einstein, J.K Roulling, Jane Austen, Thomas Edison entre outros)_
 
 Foi extraído o conteúdo das frases e as tags relacionadas de cada autor
 
+<div style="display: inline_block"></br>
+<img align="center" alt="html5"
+src="http://ForTheBadge.com/images/badges/made-with-python.svg"/>
+<div><>

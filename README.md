@@ -49,7 +49,7 @@ _Aqui estou rodando o código **quotes**, nome esse que foi atribuído ao projet
 
 O arquivo .json ficou da seguinte forma: 
 <br/>(_**clique**_ na imagem para uma melhor resolução)</br>
-</br> <img src="jsonsemtratamento.png">
+</br> <img src="jsonsemtratamento.PNG">
 
 Após a extração dos dados eles foram tranformados em json
 Depois de tranformados foi feito o tratamento rertirando caracteres ou informações que não seria úteis para uma visualização limpa dos dados 

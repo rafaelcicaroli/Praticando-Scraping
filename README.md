@@ -1,6 +1,6 @@
 # Praticando **_WEBSCRAPING_**
 
-### _Neste projeto estou realizando a **Extração** de dados do site [Quotes to Scrape](https://quotes.toscrape.com/), convertendo-os em informação estruturada para posterior análise_
+### _Neste projeto estou ealizando a **Extração** de dados do site [Quotes to Scrape](https://quotes.toscrape.com/page), convertendo-os em informação estruturada para posterior análise_
 
 </br>
 
@@ -51,8 +51,68 @@ O arquivo .json ficou da seguinte forma:
 <br/>(_**clique**_ na imagem para uma melhor resolução)</br>
 </br> <img src="jsonsemtratamento.PNG">
 
-Após a extração dos dados eles foram tranformados em json
-Depois de tranformados foi feito o tratamento rertirando caracteres ou informações que não seria úteis para uma visualização limpa dos dados 
+Após a extração dos dados, acrescentei no código um método de tratamento simples em todas as linhas apenas do arquivo .json, retirando as informações circuladas em vermelho que não seriam úteis para uma visualização limpa dos dados
+<br/>(_**clique**_ na imagem para uma melhor resolução)</br>
+
+</br> <img src="tratamentomudar.png">
+
+</br>
+</br>
+
+    def clean_text(text):
+    text = text.strip(u'\u201c')
+    text = text.strip(u'\u201d')
+    return text
+
+    class QuotesSpider(scrapy.Spider):
+        name = "quotes"
+        start_urls = [ "http://quotes.toscrape.com/page/1/" ]
+
+         def parse(self, response):
+            for quote in response.css('div.quote'):
+                yield {
+                     'text': clean_text(quote.css('span.text::text').get()),
+                     'author': quote.css('small.author::text').get(),
+                     'tags': quote.css('div.tags a.tag::text').getall()}
+            next_page = response.css('li.next a::attr(href)').get()
+             if next_page is not None:
+                yield response.follow(next_page, callback=self.parse)
+
+_________________
+</br>
+Arquivo .json tratado:
+<br/>(_**clique**_ na imagem para uma melhor resolução)</br>
+</br>
+
+</br> <img src="tratamentoquotes.png">
+
+
+</br>
+</br>
+
+Dessa forma finalizo o meu _WEBSCRAPING_ onde coletei dados específicos de todas as páginas de um site, limpei, tranformei em um arquivo de fácil leitura, e os transformei para consumo e melhor visualização.
+
+Estou praticando, há muito campo para melhora, porém estou satisfeito por realizei o que me propus fazer
+
+Um abraço, 
+
+Rafael Cicaroli
+___
+</br>
+Quer falar comigo?
+
+</br> <img src="tratamentoquotes.png">
+
+
+    
+
+
+
+
+
+
+
+
 
 <div style="display: inline_block"></br>
 <img align="center" alt="html5"

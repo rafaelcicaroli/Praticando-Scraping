@@ -101,7 +101,7 @@ ___
 </br>
 Quer falar comigo?
 
-</br> <img src="tratamentoquotes.png">
+</br> <img src="sendtorafaelcicaroli.png">
 
 
     

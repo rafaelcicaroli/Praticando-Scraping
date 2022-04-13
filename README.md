@@ -1,6 +1,6 @@
 # Praticando **_WEBSCRAPING_**
 
-### _Neste projeto estou ealizando a **Extração** de dados do site [Quotes to Scrape](https://quotes.toscrape.com/page), convertendo-os em informação estruturada para posterior análise_
+### _Neste projeto estou realizando a **Extração** de dados do site [Quotes to Scrape](https://quotes.toscrape.com/page), convertendo-os em informação estruturada para posterior análise_
 
 </br>
 

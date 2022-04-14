@@ -1,6 +1,14 @@
-# Praticando **_WEBSCRAPING_**
+# raticando **_WEBSCRAPING_**
+
+<!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
+
+![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
 
 ### _Neste projeto estou realizando a **Extração** de dados do site [Quotes to Scrape](https://quotes.toscrape.com/), convertendo-os em informação estruturada para posterior análise_
+
+<img src="exemplo-image.png" alt="Scraping!.png">
 
 </br>
 

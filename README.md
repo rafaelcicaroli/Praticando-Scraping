@@ -111,9 +111,6 @@ ___
 
 
 
-    
-[⬆ Voltar ao topo](Praticando WEBSCRAPING)<br>
-
 
 
 

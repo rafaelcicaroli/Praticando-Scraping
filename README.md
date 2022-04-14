@@ -112,7 +112,7 @@ ___
 
 
     
-[⬆ Voltar ao topo](Praticando **_WEBSCRAPING_**)<br>
+[⬆ Voltar ao topo](Praticando WEBSCRAPING)<br>
 
 
 

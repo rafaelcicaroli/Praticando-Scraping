@@ -8,7 +8,7 @@
 
 ### _Neste projeto estou realizando a **Extração** de dados do site [Quotes to Scrape](https://quotes.toscrape.com/), convertendo-os em informação estruturada para posterior análise_
 
-<img src="Scraping!.png" alt="Scraping!.png">
+<img src="Scraping!.png" alt="Scraping!.png"  width="200"/>
 
 </br>
 

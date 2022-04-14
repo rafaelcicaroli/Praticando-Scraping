@@ -1,17 +1,17 @@
 # Praticando **_WEBSCRAPING_**
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/rafaelcicaroli/Praticando-Scraping?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/rafaelcicaroli/Praticando-Scraping?style=for-the-badge)
 
-### _Neste projeto estou realizando a **Extração** de dados do site [Quotes to Scrape](https://quotes.toscrape.com/), convertendo-os em informação estruturada para posterior análise_
+
+Neste projeto estou realizando a extração de dados do site [Quotes to Scrape](https://quotes.toscrape.com/), convertendo-os em informação estruturada para posterior análise
 
 </br>
 
-**Nas páginas do site encontramos:** </br>
-- Citações de grandes nomes da história 
-_(Albert Einstein, J.K Roulling, Jane Austen, Thomas Edison entre outros)_
-- Biografias </br></br>
+ **Nas páginas do site encontramos:** </br>
+ - Citações de grandes nomes da história 
+ - (Albert Einstein, J.K Roulling, Jane Austen, Thomas Edison entre outros)_
+ - Biografias </br></br>
 
 Foram coletadas as _**frases**_, os _**autores**_ de cada frase, e as _**tags**_ relacionadas </br>
 </br>
